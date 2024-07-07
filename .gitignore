@@ -1,0 +1,7 @@
+# Virtual environment
+venv/
+__pycache__/
+# Data files
+data/*.csv
+data/*.txt
+data/*.docx
